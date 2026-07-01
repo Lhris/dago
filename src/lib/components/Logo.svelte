@@ -8,7 +8,7 @@
 	height={size}
 	viewBox="0 0 32 32"
 	role="img"
-	aria-label="dagobooks logo"
+	aria-label="unifibooks logo"
 	xmlns="http://www.w3.org/2000/svg"
 >
 	<rect width="32" height="32" rx="8" fill="currentColor" />

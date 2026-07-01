@@ -18,7 +18,7 @@
 		},
 		{
 			quote:
-				'Switching to dagobooks paid for itself in the first quarter. Payroll and taxes just… happen now. I stopped worrying about them.',
+				'Switching to unifibooks paid for itself in the first quarter. Payroll and taxes just… happen now. I stopped worrying about them.',
 			name: 'Priya Nair',
 			role: 'CEO, Northwind Goods',
 			initials: 'PN'

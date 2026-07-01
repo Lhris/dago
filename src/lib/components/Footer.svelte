@@ -23,7 +23,7 @@
 		{
 			heading: 'Get in touch',
 			links: [
-				{ label: 'hello@dagobooks.com', href: 'mailto:hello@dagobooks.com' },
+				{ label: 'hello@unifibooks.com', href: 'mailto:hello@unifibooks.com' },
 				{ label: '(555) 012-3456', href: 'tel:+15550123456' },
 				{ label: 'Mon–Fri, 9–5', href: '#contact' }
 			]
@@ -35,10 +35,10 @@
 	<div class="mx-auto max-w-6xl px-6 py-14">
 		<div class="grid gap-10 sm:grid-cols-2 lg:grid-cols-5">
 			<div class="lg:col-span-2">
-				<a href="#top" class="flex items-center gap-2.5" aria-label="dagobooks home">
+				<a href="#top" class="flex items-center gap-2.5" aria-label="unifibooks home">
 					<Logo class="text-brand-600" size={28} />
 					<span class="font-display text-lg font-extrabold tracking-tight text-slate-900">
-						dagobooks
+						unifibooks
 					</span>
 				</a>
 				<p class="mt-4 max-w-xs text-sm leading-relaxed text-slate-500">
@@ -69,7 +69,7 @@
 		<div
 			class="mt-12 flex flex-col items-center justify-between gap-4 border-t border-slate-100 pt-7 sm:flex-row"
 		>
-			<p class="text-sm text-slate-400">© 2026 dagobooks. All rights reserved.</p>
+			<p class="text-sm text-slate-400">© 2026 unifibooks. All rights reserved.</p>
 			<div class="flex gap-6">
 				<a href="#top" class="text-sm text-slate-400 transition-colors hover:text-slate-700">Privacy</a>
 				<a href="#top" class="text-sm text-slate-400 transition-colors hover:text-slate-700">Terms</a>

@@ -17,10 +17,10 @@
 	class="sticky top-0 z-50 border-b border-slate-200/70 bg-white/80 backdrop-blur-md"
 >
 	<nav class="mx-auto flex h-16 max-w-6xl items-center justify-between px-6">
-		<a href="#top" onclick={close} class="flex items-center gap-2.5" aria-label="dagobooks home">
+		<a href="#top" onclick={close} class="flex items-center gap-2.5" aria-label="unifibooks home">
 			<Logo class="text-brand-600" size={30} />
 			<span class="font-display text-lg font-extrabold tracking-tight text-slate-900">
-				dagobooks
+				unifibooks
 			</span>
 		</a>
 
