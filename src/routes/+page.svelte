@@ -10,7 +10,7 @@
 	import CTA from '$lib/components/CTA.svelte';
 	import Footer from '$lib/components/Footer.svelte';
 
-	const title = 'unifibooks — Bookkeeping that actually adds up';
+	const title = 'UniFi Books — Bookkeeping that actually adds up';
 	const description =
 		'Friendly, reliable bookkeeping for small businesses. Tidy books, clear numbers, and zero month-end stress. Book a free consultation.';
 </script>

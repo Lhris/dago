@@ -33,7 +33,7 @@
 				class="animate-rise mt-6 max-w-xl text-lg leading-relaxed text-slate-600"
 				style="animation-delay: 150ms"
 			>
-				Tidy books, clear numbers, and zero month-end stress. unifibooks handles the
+				Tidy books, clear numbers, and zero month-end stress. UniFi Books handles the
 				day-to-day so you can get back to running your business.
 			</p>
 
